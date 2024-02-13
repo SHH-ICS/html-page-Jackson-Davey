@@ -1,0 +1,18 @@
+h1 {
+    color: blue;
+    background-color: darkseagreen;
+    text-align: right;
+}
+
+p {
+    background-color: darkturquoise;
+    font-weight: bold;
+    text-align: right;
+    color: crimson;
+}
+
+head {
+    color: azure;
+    background-color: black;
+    text-align: center;
+}
