@@ -11,9 +11,3 @@ p {
     text-align: left;
     color: crimson;
 }
-
-#image {
-    position: absolute;
-    left: 50px;
-    top: 50px;
-}
