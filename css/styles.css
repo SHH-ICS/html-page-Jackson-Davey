@@ -1,13 +1,13 @@
 h1 {
     color: blue;
     background-color: darkseagreen;
-    text-align: right;
+    text-align: left;
 }
 
 p {
     background-color: darkturquoise;
     font-weight: bold;
-    text-align: right;
+    text-align: left;
     color: crimson;
 }
 
