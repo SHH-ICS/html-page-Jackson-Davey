@@ -8,8 +8,9 @@ h1 {
 
 h5 {
     background-color: blue;
-font-weight: bold;
-text-align: center;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(255, 165, 0);
 }
 
 p {
