@@ -6,11 +6,15 @@ h1 {
     padding: 40px;
 }
 
+h5 {
+    background-color: blue;
+font-weight: bold;
+text-align: center;
+}
+
 p {
     background-color: blue;
-    font-weight: bold;
     text-align: center;
-    color: orange;
 }
 
 body {
